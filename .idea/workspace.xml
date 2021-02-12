@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ecd9858-9840-45a8-ae85-642090b3c110" name="Default Changelist" comment="" />
+    <list default="true" id="5ecd9858-9840-45a8-ae85-642090b3c110" name="Default Changelist" comment="1st commit">
+      <change afterPath="$PROJECT_DIR$/images/Is-This-me!.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/anime-website-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mist-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/notre-dame-college.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/treasure-hunt-logo-png-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/uttara-high-school.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,12 +41,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1oK9zL8AW225tti4ZVk3cZnziG4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -34,14 +64,58 @@
       <updated>1613024675773</updated>
       <workItem from="1613024676919" duration="3234000" />
       <workItem from="1613031224797" duration="7211000" />
-      <workItem from="1613065632327" duration="10256000" />
+      <workItem from="1613065632327" duration="11585000" />
+      <workItem from="1613099947423" duration="11999000" />
     </task>
+    <task id="LOCAL-00001" summary="1st commit">
+      <created>1613079856877</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613079856877</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1st commit">
+      <created>1613080477946</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613080477946</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="1st commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="1st commit" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="353" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1613111676618">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="353" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1613111676618" />
+    <state x="265" y="92" key="Vcs.Push.Dialog.v2" timestamp="1613080490953">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="265" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1613080490953" />
+    <state x="474" y="264" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1613080259383">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="474" y="264" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.728@0.0.1366.728" timestamp="1613080259383" />
     <state x="329" y="164" key="run.anything.popup" timestamp="1613036299145">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
