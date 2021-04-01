@@ -19,13 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ecd9858-9840-45a8-ae85-642090b3c110" name="Default Changelist" comment="1st commit">
-      <change afterPath="$PROJECT_DIR$/images/Is-This-me!.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/anime-website-image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/mist-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/notre-dame-college.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/treasure-hunt-logo-png-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/uttara-high-school.png" afterDir="false" />
+    <list default="true" id="5ecd9858-9840-45a8-ae85-642090b3c110" name="Default Changelist" comment="2nd commit">
+      <change afterPath="$PROJECT_DIR$/images/Wikipedia_hack.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/battery_notification.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/masum.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -38,6 +35,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1oK9zL8AW225tti4ZVk3cZnziG4" />
@@ -52,6 +50,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -65,7 +64,8 @@
       <workItem from="1613024676919" duration="3234000" />
       <workItem from="1613031224797" duration="7211000" />
       <workItem from="1613065632327" duration="11585000" />
-      <workItem from="1613099947423" duration="11999000" />
+      <workItem from="1613099947423" duration="12237000" />
+      <workItem from="1617292637069" duration="5408000" />
     </task>
     <task id="LOCAL-00001" summary="1st commit">
       <created>1613079856877</created>
@@ -81,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613080477946</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2nd commit">
+      <created>1613112214221</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1613112214221</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,21 +104,23 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="1st commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="1st commit" />
+    <MESSAGE value="2nd commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="353" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1613111676618">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="353" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1613111676618" />
-    <state x="265" y="92" key="Vcs.Push.Dialog.v2" timestamp="1613080490953">
+    <state x="265" y="92" key="Vcs.Push.Dialog.v2" timestamp="1613112225283">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="265" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1613080490953" />
+    <state x="265" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1613112225283" />
     <state x="474" y="264" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1613080259383">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
